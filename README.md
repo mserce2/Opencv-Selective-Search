@@ -5,4 +5,5 @@ Daha hızlı sürede bölge önerileri alıyoruz ancak isabetlik oranı çok faz
 
 # python selective_search.py --image dog.jpg --method quality  
 Uzun sürer ancak isabet oranı yüksek bölge önerileri alabiliriz.
+
 ![Ss-slow](https://user-images.githubusercontent.com/64548477/93670354-8539ea80-faa3-11ea-988b-bbb05a7314af.gif)
