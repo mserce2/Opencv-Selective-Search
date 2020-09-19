@@ -84,5 +84,6 @@ Seçici Arama size ROI'de ne olduğunu söylemeyecek, ancak ROI'nin son sınıfl
 (örn. SVM, CNN, vb.) Aktarılacak kadar "yeterince ilginç" olduğunu söyleyecektir.
 
 => python selective_search.py --image dog.jpg --method quality
+=> python selective_search.py --image dog.jpg --method fast
 
 """
